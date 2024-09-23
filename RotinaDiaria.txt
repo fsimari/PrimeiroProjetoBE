@@ -1,0 +1,40 @@
+Rotina Matinal Detalhada:
+Despertador toca:
+ - Levanto da cama
+ - Vou até o banheiro
+     -Se a porta estiver fechada:
+     Giro a maçaneta e abro
+     Caso contrário:
+     Entro no banheiro
+ - Fecho a porta do banheiro
+ - Vou até a pia
+ - Pego a escova de dentes
+ - Coloco pasta na escova
+ - Ligo a torneira
+ - Escovo os dentes
+ - Enxáguo a boca
+ - Desligo a torneira
+ - Vou ao chuveiro
+ - Ligo o chuveiro
+ - Tomo banho
+ - Desligo o chuveiro
+ - Pego a toalha
+ - Me seco
+ - Troco de roupa
+ - Saio do banheiro
+ - Fecho a porta
+ - Vou até a cozinha
+ - Abro o armário
+ - Pego uma xícara
+ - Pego o pote de café
+ - Vou até o fogão
+ - Coloco água para ferver
+ - Coloco o pó de café no coador
+ - Depois que a água ferve, passo o café
+ - Sirvo o café na xícara
+ - Abro a geladeira
+ - Pego algo para comer (pão, frutas, etc.)
+ - Sento à mesa
+ - Tomo o café e como o que peguei
+ - Ao terminar, lavo a xícara e o prato
+ 
